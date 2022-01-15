@@ -1,0 +1,39 @@
+.navbar {
+    height: 40px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.mask {
+    height: 175%;
+}
+
+h5 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 35px;
+}
+
+.card-text {
+    font-family: 'Raleway', sans-serif;
+}
+
+
+.nav-link {
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar-expand {
+    font-family: 'Raleway', sans-serif;
+}
+
+.card-body {
+    background-color: lavender;
+}
+
+.container {
+    background-color: lavender;
+    width: 100%;
+}
+
+form {
+    text-align: center;
+}

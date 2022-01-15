@@ -1,0 +1,32 @@
+body {
+    background-color: skyblue;
+}
+
+.container {
+    
+    height: 70px;
+    background-color: skyblue;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+
+
+.navbar-expand {
+    height: 40px;
+}
+
+h2 {
+    height: 150px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color: rgb(190, 129, 190);
+}
+
+.card-body {
+    border-radius: 1px;
+    background-color: black;
+    color: whitesmoke;
+}
+
+.card-footer {
+    background-color: black;
+}
